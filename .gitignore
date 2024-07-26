@@ -1,0 +1,5 @@
+# Ignore server-backend/reactfrontend directory
+server-backend/reactfrontend/
+
+# Ignore frontend-client/node_modules directory
+frontend-client/node_modules/
